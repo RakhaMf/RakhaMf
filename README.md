@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![RMF GitHub stats](https://github-readme-stats.vercel.app/api?username=RakhaMf&theme=midnight-purple&show_icons=true)
-![RMF GitHub stats](https://github-readme-repo.vercel.app/api?username=RakhaMf&theme=midnight-purple&show_icons=true)
+![RMF GitHub repo](https://github-readme-repo.vercel.app/api?username=RakhaMf&theme=midnight-purple&show_icons=true)
